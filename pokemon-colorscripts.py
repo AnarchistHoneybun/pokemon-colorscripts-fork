@@ -25,7 +25,8 @@ GENERATIONS = {
     "5": (494, 649),
     "6": (650, 721),
     "7": (722, 809),
-    "8": (810, 898),
+    "8": (810, 905),
+    "9": (906, 1025),
 }
 
 
@@ -165,7 +166,7 @@ def main() -> None:
         "-r",
         "--random",
         type=str,
-        const="1-8",
+        const="1-9",
         nargs="?",
         help="""Show a random pokemon. This flag can optionally be
                 followed by a generation number or range (1-8) to show random
