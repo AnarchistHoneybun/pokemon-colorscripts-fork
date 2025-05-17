@@ -169,7 +169,7 @@ def main() -> None:
         const="1-9",
         nargs="?",
         help="""Show a random pokemon. This flag can optionally be
-                followed by a generation number or range (1-8) to show random
+                followed by a generation number or range (1-9) to show random
                 pokemon from a specific generation or range of generations.
                 The generations can be provided as a continuous range (eg. 1-3)
                 or as a list of generations (1,3,6)""",

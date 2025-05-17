@@ -8,7 +8,7 @@ A script to print out images of pokemon to the terminal. Inspired by
 
 ## Description
 Prints out colored unicode sprites of pokemon onto your terminal. Contains
-almost 900 pokemon from gen 1 to gen 8. Has all the pokemons you could ever want, including shinies
+almost 900 pokemon from gen 1 to gen 9. Has all the pokemons you could ever want, including shinies
 and alternate forms (okay it's still missing some female forms but cut me some slack).
 
 ## Visuals
