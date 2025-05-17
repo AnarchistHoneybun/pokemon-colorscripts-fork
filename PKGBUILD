@@ -1,11 +1,12 @@
-# Maintainer: Phoney Badger <phoneybadgercode.4ikc7 at simplelogin.co>
-pkgname=pokemon-colorscripts-git
-_pkgname=pokemon-colorscripts
-pkgver=r103.c315110
+# Creator: Phoney Badger <phoneybadgercode.4ikc7 at simplelogin.co>
+# Maintainer: AnarchistHoneybun <thatonebipanda@gmail.com>
+pkgname=pokemon-colorscripts-fork-git
+_pkgname=pokemon-colorscripts-fork
+pkgver=r114.365bd95
 pkgrel=1
 pkgdesc="CLI utility that prints unicode sprites of pokemon to the terminal"
 arch=('any')
-url="https://gitlab.com/phoneybadger/pokemon-colorscripts.git"
+url="https://github.com/AnarchistHoneybun/pokemon-colorscripts-fork.git"
 license=('MIT')
 depends=('coreutils' 'python')
 makedepends=('git')
