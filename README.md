@@ -4,7 +4,24 @@ A script to print out images of pokemon to the terminal. Inspired by
 [DT's colorscripts compilation](https://gitlab.com/dwt1/shell-color-scripts)
 
 ## Table of contents
-[[_TOC_]]
+- [Table of contents](#table-of-contents)
+- [Description](#description)
+- [Visuals](#visuals)
+     - [Demo GIFs](#demo-gifs)
+     - [Screenshots](#screenshots)
+- [Requirements](#requirements)
+- [Installation](#installation)
+     - [On Arch or Arch based distros](#on-arch-or-arch-based-distros)
+     - [On other distros and MacOS](#on-other-distros-and-macos)
+     - [Uninstall](#uninstall)
+- [Usage](#usage)
+- [Location of the files](#location-of-the-files)
+- [How it works](#how-it-works)
+- [Similar projects](#similar-projects)
+- [Credits](#credits)
+- [Author](#author)
+- [License](#license)
+
 
 ## Description
 Prints out colored unicode sprites of pokemon onto your terminal. Contains
@@ -96,7 +113,7 @@ optional arguments:
   -s, --shiny           Show the shiny version of the pokemon instead
   -b, --big             Show a larger version of the sprite
   -r [RANDOM], --random [RANDOM]
-                        Show a random pokemon. This flag can optionally be followed by a generation number or range (1-8) to show random pokemon
+                        Show a random pokemon. This flag can optionally be followed by a generation number or range (1-9) to show random pokemon
                         from a specific generation or range of generations. The generations can be provided as a continuous range (eg. 1-3) or as a
                         list of generations (1,3,6)
 ```
